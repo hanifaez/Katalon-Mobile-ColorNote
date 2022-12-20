@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2.1_search_more_words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e99030cf-7a1c-4ecc-ad9c-4e2cac960884</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9568e0a-b122-4153-9c2e-2b2d8e85d65e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'to make sure'</defaultValue>
+      <description></description>
+      <id>e9568e0a-b122-4153-9c2e-2b2d8e85d65e</id>
+      <masked>false</masked>
+      <name>find_word</name>
+   </variable>
+</TestCaseEntity>

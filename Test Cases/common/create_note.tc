@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create_note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcd94974-ad94-43ee-a4e5-fb8392ce5b67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f37c2b85-fb19-4c92-859d-669d320436a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18e2f01b-c30f-4b78-bf71-3956dd4a25d8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4fb9693-3abd-4d4a-8071-4da664b7adb8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cloud testing is the process of using the cloud computing resources of a third-party service provider to test software applications.'</defaultValue>
+      <description></description>
+      <id>f37c2b85-fb19-4c92-859d-669d320436a5</id>
+      <masked>false</masked>
+      <name>note_body_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'API testing is a type of software testing that analyzes an application program interface (API) to verify it fulfills its expected functionality, security, performance and reliability'</defaultValue>
+      <description></description>
+      <id>18e2f01b-c30f-4b78-bf71-3956dd4a25d8</id>
+      <masked>false</masked>
+      <name>note_body_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Regression testing is testing existing software applications to make sure that a change or addition hasn\'t broken any existing functionality.'</defaultValue>
+      <description></description>
+      <id>b4fb9693-3abd-4d4a-8071-4da664b7adb8</id>
+      <masked>false</masked>
+      <name>note_body_3</name>
+   </variable>
+</TestCaseEntity>

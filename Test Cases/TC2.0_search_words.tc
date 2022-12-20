@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2.0_search_words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>904feb4a-4c4f-4b5c-bf36-b60a7a8c2a42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e950acd-4a71-4f2c-af3d-21825b516baa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'existing'</defaultValue>
+      <description></description>
+      <id>2e950acd-4a71-4f2c-af3d-21825b516baa</id>
+      <masked>false</masked>
+      <name>find_word</name>
+   </variable>
+</TestCaseEntity>

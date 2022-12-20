@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Cloud Testing'</initValue>
+      <name>NOTE_TITLE_1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'API Testing'</initValue>
+      <name>NOTE_TITLE_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Regression Testing'</initValue>
+      <name>NOTE_TITLE_3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Grocery lists'</initValue>
+      <name>CHECKLIST_TITLE_1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'To do later'</initValue>
+      <name>CHECKLIST_TITLE_2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
